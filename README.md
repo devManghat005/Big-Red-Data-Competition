@@ -14,7 +14,7 @@ Predict donor retention using a machine learning model (XGBoost), helping organi
 
 ## Files
 
-- `main.py`: Main script that loads data, creates features, trains the model, and prints evaluation metrics.
+- `ML_Analysis.ipynb`: Main script that loads data, creates features, trains the model, and prints evaluation metrics.
 - `Sam's Fans All Transactions All Time (1).xlsx`: Input Excel file with donation history.
 - `README.md`: This documentation.
 
